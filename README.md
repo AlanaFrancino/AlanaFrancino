@@ -4,15 +4,15 @@
   <img height="176em" src="https://github-readme-stats.vercel.app/api?username=AlanaFrancino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanaFrancino&layout=compact&langs_count=7&theme=dracula"/>
   </br>
-  <img align="right" alt="gif"  width="100" style="margin:0px 55px 0px 0px" src="https://cdn.discordapp.com/attachments/876130187526438964/876130444930854982/Webp.net-gifmaker.gif">
+  <img align="right" alt="gif"  width="100" style="margin:0px 10px 30px 0px" src="https://cdn.discordapp.com/attachments/876130187526438964/876130444930854982/Webp.net-gifmaker.gif">
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Php" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Php" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  
-
+  <img align="center" alt="postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 <div> 
  
